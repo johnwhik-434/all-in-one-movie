@@ -1,7 +1,6 @@
 # 🎬 MovzLoop - all in one movie site 
 A stunning, modern movie streaming/download website with **3D animations**, **admin panel**, and **complete movie management system**.
 
-![MovzLoop.movies](https://img.shields.io/badge/VegaMovies-v1.0-purple?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?style=for-the-badge&logo=tailwind-css)
