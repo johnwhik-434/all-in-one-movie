@@ -29,8 +29,8 @@ A stunning, modern movie streaming/download website with **3D animations**, **ad
 ## 🚀 Quick Start
 
 ### Access the Application
-- **Homepage:** ` comming soon
-- **Admin Panel:** coming soon 
+- **site link :- comming soon
+-
 
 
 ## 📱 Pages & Routes
