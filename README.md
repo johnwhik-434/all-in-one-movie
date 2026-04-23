@@ -29,8 +29,8 @@ A stunning, modern movie streaming/download website with **3D animations**, **ad
 ## 🚀 Quick Start
 
 ### Access the Application
-- **Homepage:** `http://localhost:5173/`
-- **Admin Panel:** `http://localhost:5173/admin`
+- **Homepage:** ` comming soon
+- **Admin Panel:** coming soon 
 
 
 ## 📱 Pages & Routes
